@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alex Horban</h1>
-<h3 align="center">Treinee/Junior full stack .net web developer</h3>
+<h3 align="center">Trainee/Junior full stack .net web developer</h3>
 
 ## Connect with me:
 
