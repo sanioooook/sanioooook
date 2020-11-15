@@ -76,6 +76,9 @@
 
 I took courses, and the MakeMeTrip project was developed during the course. We developed this project for three months in a team of five people. During this course, I learned a lot, added to my technology stack, and am currently looking for a fullstack job as a junior developer.
 
+<br />
+<br />
+
 <p align="middle">
   <img align="middle" alt="Alex Horban Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanioooook&title_color=DC143C&icon_color=B22222&bg_color=fff6f6&show_icons=true&hide_border=true&count_private=true" />
 </p>
