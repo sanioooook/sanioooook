@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alex Horban</h1>
-<h3 align="center">Trainee/Junior full stack .net web developer</h3>
+<h3 align="center">Full stack .net web developer</h3>
 
 ## Connect with me:
 
@@ -30,7 +30,7 @@
 
 #### Back-end:
 
-<img align="left" title="Node JS" alt="Node JS" width="44px" src="https://user-images.githubusercontent.com/54556157/90980927-da4b1500-e566-11ea-98f2-6d56fff480e0.png" />
+
 <img align="left" title="C#" alt="C#" width="44px" src="https://user-images.githubusercontent.com/54556157/90980750-06b26180-e566-11ea-9c05-dcc8a6554e2a.png" />
 <img align="left" title=".Net Core" alt=".Net Core" width="44px" src="https://user-images.githubusercontent.com/54556157/90980455-306a8900-e564-11ea-866a-b63a65d3ed69.png" />
 <img align="left" title="Dapper" alt="Dapper" width="44px" src="https://user-images.githubusercontent.com/54556157/91332533-ffdd5600-e7d4-11ea-827d-2d2203036141.png" />
