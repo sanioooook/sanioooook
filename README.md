@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanioooook" alt="sanioooook" /></a> </p>
 
-- 🔭 I’m currently working on [eForm](https://github.com/Gid733/eform-angular-frontend)
-
-- 📫 How to reach me **sahok@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/alex-horban/](https://www.linkedin.com/in/alex-horban/)
+- 🔭 I’m currently working on [eForm](https://github.com/Gid733/eform-angular-frontend) and [emailhippo](https://www.emailhippo.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
