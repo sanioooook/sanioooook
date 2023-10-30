@@ -10,8 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://goo-gl.ink/IBKNG" target="blank"><img align="center" src="./svg/linkedin.svg" alt="alex-horban" height="30" width="40" /></a>
-<a href="https://goo-gl.ink/IcJSz" target="blank"><img align="center" src="./svg/telegram.svg" alt="alex-horban" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/alex-horban" target="blank"><img align="center" src="./svg/linkedin.svg" alt="alex-horban" height="30" width="40" /></a>
+<a href="https://t.me/SanyaGorban" target="blank"><img align="center" src="./svg/telegram.svg" alt="alex-horban" height="30" width="40" /></a>
 <a href="mailto:alex.gorban6264@gmail.com" target="blank"><img align="center" src="./svg/gmail-old.svg" alt="alex-horban" height="30" width="40" /></a>
 </p>
 
