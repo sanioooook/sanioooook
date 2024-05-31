@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alex Horban</h1>
 <h3 align="center">Full stack .net web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanioooook&label=Profile%20views&color=0e75b6&style=flat" alt="sanioooook" /> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanioooook" alt="sanioooook" /></a> </p>
 
@@ -29,4 +33,6 @@
 <p align="middle">
   <img align="middle" alt="Alex Horban Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanioooook&title_color=DC143C&bg_color=fff6f6&layout=compact&hide_border=true&hide=ASP" />
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanioooook&label=Profile%20views&color=0e75b6&style=flat" alt="sanioooook" /> </p>
 
